@@ -1,0 +1,17 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 31 déc. 2023, 17:38:06
+    Author     : fatimaezzahra
+*/
+
+.text-button{
+   -fx-background-color: green;
+}
+.form{
+    -fx-background-color:goldenrod;
+    -fx-width: 800px;
+    -fx-white-space: 800px;
+}
