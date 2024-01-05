@@ -1,0 +1,5 @@
+com\mycompany\firstapp\PrimaryController.class
+module-info.class
+com\mycompany\firstapp\data.class
+com\mycompany\firstapp\SecondaryController.class
+com\mycompany\firstapp\App.class
